@@ -8,7 +8,17 @@ function substract(a,b) {
 	return a-b;
 }
 
-function divide (a, b) {
+function divide (b, c) {
     console.log(a / b);
     return a/b;
 }
+
+
+  juhee		      friend
+	|   			|
+	|   			|
+	|   			|
+	|   			|
+	|   			|
+	|   			|
+	|   			|
